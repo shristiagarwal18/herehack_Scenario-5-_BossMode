@@ -26,6 +26,15 @@ Proper connectivity through roads, metro, railways etc.
 
 🛠 Languages, Technologies And Tools
 
+- Schemas
+- Content Management Systems
+- Geolocation
+- Here Maps API
+- Clustering Markers
+- Next.js
+- ServerSideProps
+- Sanity SDK
+- React Hooks
 
 ⛓️Created & Maintained By
 
